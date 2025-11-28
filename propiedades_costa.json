@@ -1,12 +1,4 @@
 [
-
-][
-
-][
-
-][
-
-][
 {"titulo": "Se arrienda lindo departamento amoblado", "precio": "$685.000", "tipo_operacion": "En Arriendo", "descripcion": "Departamento en Concón", "detalles": ["DEPABANY", "2 dormitorios", "2 baños", "59 m²"], "url_titulo": "https://www.costaurbanapropiedades.cl/property/se-arrienda-lindo-departamento-amoblado"},
 {"titulo": "ARRIENDO Departamento en Viña Centro", "precio": "$670.000", "tipo_operacion": "En Arriendo", "descripcion": "Departamento en Viña del Mar Centro, Viña del Mar", "detalles": ["DEPVEROR", "3 dormitorios", "2 baños", "70 m²"], "url_titulo": "https://www.costaurbanapropiedades.cl/property/se-arrienda-comodo-departamento-vina-del-mar-centro"},
 {"titulo": "ARRIENDO Departamento a estrenar en Bosques de Montemar", "precio": "$480.000", "tipo_operacion": "En Arriendo", "descripcion": "Departamento en Bosques de Montemar, Concón", "detalles": ["DECM", "Estudio", "1 baño", "35 m²"], "url_titulo": "https://www.costaurbanapropiedades.cl/property/arriendo-departamento-a-estrenar-en-bosques-de-montemar"},
