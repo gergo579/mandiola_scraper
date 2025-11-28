@@ -1,4 +1,5 @@
 [
+{"titulo": "Se arrienda lindo departamento amoblado", "precio": "$685.000", "tipo_operacion": "En Arriendo", "descripcion": "Departamento en Concón", "detalles": ["DEPABANY", "2 dormitorios", "2 baños", "59 m²"]},
 {"titulo": "ARRIENDO Departamento en Viña Centro", "precio": "$670.000", "tipo_operacion": "En Arriendo", "descripcion": "Departamento en Viña del Mar Centro, Viña del Mar", "detalles": ["DEPVEROR", "3 dormitorios", "2 baños", "70 m²"]},
 {"titulo": "ARRIENDO Departamento a estrenar en Bosques de Montemar", "precio": "$480.000", "tipo_operacion": "En Arriendo", "descripcion": "Departamento en Bosques de Montemar, Concón", "detalles": ["DECM", "Estudio", "1 baño", "35 m²"]},
 {"titulo": "Amplio departamento 2 D | 2 B La Foresta, Reñaca", "precio": "$750.000", "tipo_operacion": "En Arriendo", "descripcion": "Departamento en Pinares de Montemar, Concón", "detalles": ["DEPTOFEVARR", "2 dormitorios", "2 baños", "80 m²"]},
@@ -23,7 +24,7 @@
 {"titulo": "Arriendo con compromiso de venta| casa ciudad Satélite", "precio": "$1.000.000", "tipo_operacion": "En Arriendo", "descripcion": "Casa en condominio en Maipú", "detalles": ["4 dormitorios", "2 baños", "188 m²"]},
 {"titulo": "OFICINA CENTRO COMERCIAL PINARES", "precio": "UF 12", "tipo_operacion": "En Arriendo", "descripcion": "Oficina en Pinares de Montemar, Concón", "detalles": ["1 baño", "25 m²"]},
 {"titulo": "OFICINA CENTRO COMERCIAL PINARES", "precio": "UF 14", "tipo_operacion": "En Arriendo", "descripcion": "Oficina en Pinares de Montemar, Concón", "detalles": ["SCANEV", "25 m²"]},
-{"titulo": "ARRIENDO DPTO AMOBLADO TIPO MARIPOSA REÑACA", "precio": "$600.000", "tipo_operacion": "En Arriendo", "descripcion": "Departamento en Reñaca, Viña del Mar", "detalles": ["DLAPG", "2 dormitorios", "2 baños", "65 m²"]},
+{"titulo": "ARRIENDO DPTO AMOBLADO TIPO MARIPOSA REÑACA", "precio": "$600.000", "tipo_operacion": "En Arriendo", "descripcion": "Departamento en Reñaca, Viña del Mar", "detalles": ["DLAPG", "2 dormitorios", "2 baños", "66,49 m²"]},
 {"titulo": "Gran local en Rodoviario Valparaíso", "precio": "UF 32", "tipo_operacion": "En Arriendo", "descripcion": "Local en Valparaíso", "detalles": ["3 baños", "90 m²"]},
 {"titulo": "Oficina a estrenar en nuevo centro comercial", "precio": "UF 13", "tipo_operacion": "En Arriendo", "descripcion": "Oficina en Bosques de Montemar, Viña del Mar", "detalles": ["OFPIN", "1 baño", "25,14 m²"]},
 {"titulo": "Amplio departamento duplex con insuperable vista de Reñaca", "precio": "$1.600.000", "tipo_operacion": "En Arriendo", "descripcion": "Departamento en Reñaca, Viña del Mar", "detalles": ["5 dormitorios", "3 baños", "213 m²"]},
